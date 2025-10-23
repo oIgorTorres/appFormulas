@@ -94,7 +94,7 @@ O layout inicial (`activity_main.xml`) contém:
 
 ### Tela Inicial
 
-![Figura 1: Exemplo da tela inicial do aplicativo](/img/img.png)
+![Figura 1:](/img/img.png)
 
 ---
 
@@ -111,7 +111,7 @@ O layout inicial (`activity_cadastro.xml`) contém:
 
 ### Tela Cadastro
 
-![Figura 1: Exemplo da tela registro do aplicativo](/img/img2.png)
+![Figura 1:](/img/img2.png)
 
 ---
 
@@ -128,7 +128,7 @@ O layout inicial (`activity_login.xml`) contém:
 
 ### Tela Login
 
-![Figura 1: Exemplo da tela registro do aplicativo](/img/img3.png)
+![Figura 1:](/img/img3.png)
 
 ---
 
